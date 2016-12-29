@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<data>
+    <spritesheet name="font" dimension="16x16">res/font.png</spritesheet>
+    <spritesheet name="testsheet">res/wall.png</spritesheet>
+
+    <sprite name="test">res/icon.png</sprite>
+
+    <sound name="win" type="sfx">res/sfx/win.wav</sound>
+</data>
